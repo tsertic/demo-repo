@@ -4,4 +4,8 @@ Some description
 
 ## subheader
 
-Some text
+Some textgti
+
+## local development
+
+Open index.html in your browser
